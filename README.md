@@ -77,8 +77,11 @@ component main = node();
 ```
 
 install these:
+
 ```npm install circom```
+
 ```npm install dotenv```
+
 to deploy and verify: ```npx hardhat run scripts/deploy.ts --network sepolia```
 
 Now copy the address provided after deploying and it balance to verify the transaction.
