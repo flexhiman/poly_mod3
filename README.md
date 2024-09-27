@@ -15,7 +15,7 @@ These gates combine to ensure that the output **Q** is `0` when inputs are **A =
 - **Circom 2.0.0**: For writing and compiling the zkSNARK circuit.
 - **Hardhat**: To compile, deploy, and test the Solidity verifier contract.
 - **Ethers.js**: For generating and verifying proofs.
-- **Sepolia/Mumbai Testnet**: For deploying the Solidity verifier.
+- **Sepolia Testnet**: For deploying the Solidity verifier.
 
 ## Circuit Design
 
